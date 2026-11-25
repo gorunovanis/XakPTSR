@@ -1,0 +1,31 @@
+# IDE & OS
+.vs/
+*.suo
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# Unity (My project1)
+My project1/[Ll]ibrary/
+My project1/[Tt]emp/
+My project1/[Oo]bj/
+My project1/[Bb]uild/
+My project1/[Bb]uilds/
+My project1/[Ll]ogs/
+My project1/[Uu]serSettings/
+My project1/*.csproj
+My project1/*.unityproj
+My project1/*.sln
+My project1/*.pidb
+My project1/*.booproj
+My project1/*.svd
+My project1/*.pdb
+My project1/*.mdb
+My project1/*.opendb
+My project1/*.VC.db
+*.keystore
+
+# WinForms (WindowsFormsApp1)
+WindowsFormsApp1/**/bin/
+WindowsFormsApp1/**/obj/
